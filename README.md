@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-  <div style="display:inline_block"><br/>
-  <img align="center" alt="html5" src="https://www.freecodecamp.org/news/how-to-build-a-simple-actor-based-blockchain-aac1e996c177"/>
-<img aling ="center" alt="html5" src=""/>
-<img aling ="center" alt="html5" src=""/>
-  </div>
+<div style="display:inline_block"><br/>
+  <img align="center" alt="html5" src="https://www.freecodecamp.org/news/how-to-build-a-simple-actor-based-blockchain-aac1e996c177" />
+  <img aling ="center" alt="html5" src=""/>
+  <img aling ="center" alt="html5" src=""/>
+</div>
