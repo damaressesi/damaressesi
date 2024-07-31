@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <div style="display: inline_block"><br/>
-  <img align="center" alt="html5" src="[https://www.freecodecamp.org/news/how-to-build-a-simple-actor-based-blockchain-aac1e996c177](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)" />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img aling="center" alt="html5" src=""/>
   <img aling="center" alt="html5" src=""/>
 </div>
